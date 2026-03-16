@@ -35,7 +35,7 @@ All vulnerability research coordinated through **CISA ICS-CERT** following 90-da
 
 ## 📫 Contact
 
-- **Email:** ryan.sharpnack.cs@gmail.com
+- **Email:** ryan@vulnhunterai.com
 - **LinkedIn:** [ryan-sharpnack-ics-security](https://linkedin.com/in/ryan-sharpnack-ics-security)
 
 For security vulnerability reports in published code, see [SECURITY.md](SECURITY.md)
